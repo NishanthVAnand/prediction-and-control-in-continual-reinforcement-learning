@@ -40,7 +40,7 @@ Run the script `run_semi_CRL.sh` to generate the minigrid results presented in F
 
 ### JellyBeanWorld
 
-Install JellyBeanWorld using the instructions provided in https://github.com/NishanthVAnand/jelly-bean-world and `jelly-bean-world` located inside `jbw_crl`. For installing jelly-bean-world, use the `setup.py` file located inside that folder for apple silicon, but use the original `setup.py` file to install it on other machines.
+Install JellyBeanWorld using the instructions provided in https://github.com/eaplatanios/jelly-bean-world and `jelly-bean-world` located inside `jbw_crl`. For installing jelly-bean-world, use the `setup.py` file located inside that folder for apple silicon, but use the original `setup.py` file to install it on other machines.
 
 After installing `jelly-bean-world`, run the shell script `run_JBW.sh` to generate a PDF containing the plot presented in Figure 5b.
 
